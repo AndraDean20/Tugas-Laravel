@@ -127,7 +127,7 @@
                         </div>
                     </div>
                 </div>
-
+`
                 {{-- Badge, List & Card --}}
                 <div class="card">
                     <div class="card-body">
